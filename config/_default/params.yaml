@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: m
 
 # SEO
 
@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: pro.mustafa.omar@gmail.com
-phone: \+447985638519
+phone: +44-7985638519
 address:
   city: London
   region: Greater London
