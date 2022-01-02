@@ -6,12 +6,12 @@ title: Mustafa Omar
 superuser: true
 
 # Role/position/tagline
-role: Physics graduate and a Machine learning MSC graduate student
+role: Physics graduate and a Machine learning MSc student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of nottingham
-  url: https://www.stanford.edu/
+- name: University of Nottingham
+  url: https://www.nottingham.ac.uk/physics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
