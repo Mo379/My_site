@@ -70,8 +70,17 @@ email: "pro.mustafa.omar@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Mustafa Omar is currently progressing in his MSc at the University of Nottingham, studying Machine Learning and applications in Science. He completed his BSc in Physics with astrophysics at the University of Kent achieving second class honours. Mustafa aims at conducting research with the application of artificial intelligence in related fields including; Nano-Science, Structural/Functional Biology (protein function problem) and Computational chemistry.
+
+Furthermore, Mustafa has a particular interest in education and ideas. He founded PracticePractice, which is an online educational platform that delivers content directly to students in an effective and simple style. He has also founded Brain storm, a blog where many topics in current research are explained and discussed, as well as other topics including but not limited to: AI; Scientific history and figures; Fundamentals of critical thinking; and Self optimisation guides for students.
+
+Having been a student of physics, Mustafa is highly influenced by the frameworks and problem solving methods he learned during his BSc, guiding his thinking and solutions. This naturally lead to Mustafa's set of skills spanning a wide range Including the following:
+
+As a foundation for all skills, proficiency in; Physics and Mathematics.
+As a Machine learning engineer, proficiency in; AI and applications of AI to science.
+As a programmer proficiency in Python, Deep learning frameworks, linux, cloud computing (AWS) and general software development workflows (Git, Docker).
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
