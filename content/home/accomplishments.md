@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: "Present"
-  date_start: "2021-01-01"
+  date_end: "2022-09-01"
+  date_start: "2022-01-01"
   description: "Linear algebra is perhaps the most important branch of mathematics for computational sciences, including machine learning, AI, data science, statistics, simulations, computer graphics, multivariate analyses, matrix decompositions, signal processing, and so on."
   organization: udemy
   organization_url: "https://www.udemy.com/"
