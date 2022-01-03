@@ -24,16 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
+  date_end: "Present"
   date_start: "2021-01-01"
+  description: "Linear algebra is perhaps the most important branch of mathematics for computational sciences, including machine learning, AI, data science, statistics, simulations, computer graphics, multivariate analyses, matrix decompositions, signal processing, and so on."
+  organization: Udemy
+  organization_url: https://www.udemy.com/
+  title: Complete linear algebra: theory and implementation in code 
+  url: "https://www.udemy.com/course/linear-algebra-theory-and-implementation/"
 design:
   columns: '2' 
 ---
