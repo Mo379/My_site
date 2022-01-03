@@ -32,14 +32,14 @@ item:
   title: "Complete linear algebra: theory and implementation in code"
   url: https://www.udemy.com/course/linear-algebra-theory-and-implementation/
 
-- certificate_url: ""
-  date_end: "Present"
-  date_start: "2021-01-01"
-  description: "Data structures are amongst the most fundamental ingredients in the recipe for creating efficient algorithms and good software design. Knowledge of how to create and design good data structures is an essential skill required in becoming an exemplary programmer. This course teaches how to master the fundamental ideas surrounding data structures."
-  organization: udemy
-  organization_url: "https://www.udemy.com/"
-  title: "Easy to Advanced Data Structures"
-  url: https://www.udemy.com/course/introduction-to-data-structures/
+#- certificate_url: ""
+#  date_end: "Present"
+#  date_start: "2021-01-01"
+#  description: "Data structures are amongst the most fundamental ingredients in the recipe for creating efficient algorithms and good software design. Knowledge of how to create and design good data structures is an essential skill required in becoming an exemplary programmer. This course teaches how to master the fundamental ideas surrounding data structures."
+#  organization: udemy
+#  organization_url: "https://www.udemy.com/"
+#  title: "Easy to Advanced Data Structures"
+#  url: https://www.udemy.com/course/introduction-to-data-structures/
 
 
 
