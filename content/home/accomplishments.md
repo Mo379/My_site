@@ -29,7 +29,7 @@ item:
   description: "Linear algebra is perhaps the most important branch of mathematics for computational sciences, including machine learning, AI, data science, statistics, simulations, computer graphics, multivariate analyses, matrix decompositions, signal processing, and so on."
   organization: udemy
   organization_url: "https://www.udemy.com/"
-  title: Complete linear algebra: theory and implementation in code 
+  title: "Complete linear algebra: theory and implementation in code"
   url: https://www.udemy.com/course/linear-algebra-theory-and-implementation/
 
 
