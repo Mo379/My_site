@@ -41,7 +41,7 @@ experience:
     company_logo: software_logo
     location: London
     date_start: '2019-08-01'
-    date_end: '2021-09-01'
+    date_end: '2022-01-01'
     description: |2-
         Responsibilities include:
         * Building and maintaining client web applications
