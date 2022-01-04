@@ -7,23 +7,23 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Skills
-    url: '#skills'
-    weight: 20
-  - name: Experince
-    url: '#experince'
-    weight: 30
   - name: Accomplishments
     url: '#accomplishments'
+    weight: 20
+  - name: Experince
+    url: '#experience'
+    weight: 30
+  - name: Skills
+    url: '#skills'
     weight: 40
-  - name: Posts
-    url: '#posts'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
   - name: Projects
     url: '#projects'
+    weight: 50
+  - name: Posts
+    url: '#posts'
+    weight: 60
+  - name: Contact
+    url: '#contact'
     weight: 70
   - name: CV
     url: uploads/resume.pdf
