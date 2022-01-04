@@ -18,7 +18,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "project/The efficiency of solar cells/report.pdf"
+url_pdf: "project/The-efficiency-of-solar-cells/report.pdf"
 url_slides: ""
 url_video: ""
 
