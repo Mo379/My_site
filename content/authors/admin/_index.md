@@ -14,7 +14,7 @@ organizations:
   url: https://www.nottingham.ac.uk/physics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applications of AI to Molecular Biology, Reinforcement learning and Quantum machine learning.
+bio: 
 
 # Interests to show in About widget
 interests:
