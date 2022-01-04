@@ -45,8 +45,9 @@ experience:
     description: |2-
         Responsibilities include:
         * Building and maintaining client web applications
+
   - title: Private online tutor
-    company: -
+    company: ''
     company_url: ''
     company_logo: tutor_logo
     location: London
