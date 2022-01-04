@@ -36,7 +36,7 @@ experience:
         * Writing course material.
 
   - title: Freelancer - Web development
-    company: -
+    company: '' 
     company_url: ''
     company_logo: software_logo
     location: London
