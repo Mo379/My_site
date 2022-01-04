@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Director
     company: PracticePractice LTD
-    company_url: 'PracticePractice.net'
+    company_url: 'https://practicepractice.net/'
     company_logo: software_logo
     location: London
     date_start: '2020-07-01'
@@ -34,15 +34,27 @@ experience:
         * Desigining a web interface.
         * Maintaining and monitoring code.
         * Writing course material.
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Freelancer: Web development
+    company: -
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: software_logo
+    location: London
+    date_start: '2019-08-01'
+    date_end: '2021-09-01'
+    description: |2-
+        Responsibilities include:
+        * Building and maintaining client web applications
+  - title: Private online tutor
+    company: -
+    company_url: ''
+    company_logo: tutor_logo
+    location: London
+    date_start: '2021-08-01'
+    date_end: '2021-11-01'
+    description: |2-
+        Responsibilities include:
+        * Teaching A-level Mathematics and Physics.
+        * Plan and Deliver lessons to online clients
 
 design:
   columns: '2'
