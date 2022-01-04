@@ -14,7 +14,7 @@ organizations:
   url: https://www.nottingham.ac.uk/physics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applications of AI to Molecular Biology, Reinforcement learning and Quantum machine learning.
 
 # Interests to show in About widget
 interests:
@@ -79,4 +79,4 @@ Furthermore, Mustafa has a particular interest in education and ideas. He founde
 Having been a student of physics, Mustafa is highly influenced by the frameworks and problem solving methods he learned during his BSc, guiding his thinking and solutions. This naturally lead to Mustafa's set of skills spanning a wide range Including the following: As a foundation for all skills, proficiency in; Physics and Mathematics. As a Machine learning engineer, proficiency in; AI and applications of AI to science.As a programmer proficiency in Python, Deep learning frameworks, linux, cloud computing (AWS) and general software development workflows (Git, Docker).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
