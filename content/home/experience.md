@@ -25,7 +25,7 @@ experience:
   - title: Director
     company: PracticePractice LTD
     company_url: 'PracticePractice.net'
-    company_logo: Software_engineer
+    company_logo: software_logo
     location: London
     date_start: '2020-07-01'
     date_end: ''
