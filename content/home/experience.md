@@ -34,7 +34,8 @@ experience:
         * Desigining a web interface.
         * Maintaining and monitoring code.
         * Writing course material.
-  - title: Freelancer: Web development
+
+  - title: Freelancer - Web development
     company: -
     company_url: ''
     company_logo: software_logo
