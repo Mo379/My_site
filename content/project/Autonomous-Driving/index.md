@@ -1,10 +1,10 @@
 ---
-title: Electromagnetic propulsion
-summary: Leveraging electromagnetic propulsion with the goal of creating a simple projectile launching system.
+title: Autonomous Driving
+summary: Using DeepLearning methods in Jax and Tensorflow to teach a model to drive a car.
 
 tags:
-- Physics
-date: "2016-04-27T00:00:00Z"
+- MachineLearning
+date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +19,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "project/Electromagnetic-propulsion/report.pdf"
+url_pdf: "project/Autonomour-Driving/report.pdf"
 url_slides: ""
 url_video: ""
 
@@ -30,6 +30,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-In this experiment, an electromagnetic propulsion system was built, with the aim to make it as reliable as possible at launching a projectile.The system consists of two solenoids and two sensors connected to an Arduino [1], the objective is to successfully accelerate the projectile through both of these solenoids without having the projectile get stuck in the middle of at the equilibrium point, therefore the purpose of the sensors is to control the flow of current, this system was tested and a success rate of 40%, 60% rate and finally 100% were achieved when all the sources of failures were formally addressed. Furthermore the experiment also looked at using a calibrated timing method, where instead of the sensors controlling the flow of current to the solenoids it was all hard coded into the python code, the optimum activation period for this design (length of each part considered) was found using trial and error, these periods were 150 milliseconds (period of the activation of the magnetic fields) from the solenoid nearest to the projectile, and 350millisecond from the other solenoid, allowing the projectile to travel from the stationary point, into the solenoid and then turns off before the projectile gets stuck in the equilibrium point (both periods start when the first signal is triggered), aside from determining the optimum times, the success rate of this method is 100%.
-
-This experiment was carried out with the goal of making a simple electromagnetic propulsion system that’s reliable, and this was successfully achieved.
+In this work we investigate the performance of different deep learning methods in the task of
+self driving, aided by regularising methods and synthetic data augmentation. We obtain results
+for models/methods including vanilla Multi layer preceptors, vanilla Convolutional neural networks
+as well as results using Transfer Learning with MobileNetV3Small and EfficentNetV2 B0 and B1,
+with performances ranking in the respective order from worse to best. We obtain a best performing
+theoretical model using the EfficentNetV2B0 model, obtaining a Kaggle MSE score of 0.01161. Fur-
+thermore on the practical testing, we used the MobvileNetV3Small and obtained a poorly performing
+model, only scoring 9/35 points in the live testing.
