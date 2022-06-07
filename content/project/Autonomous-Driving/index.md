@@ -3,7 +3,7 @@ title: Autonomous Driving
 summary: Using DeepLearning methods in Jax and Tensorflow to teach a model to drive a car.
 
 tags:
-- MachineLearning
+- ML
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

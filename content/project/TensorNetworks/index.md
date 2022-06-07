@@ -1,10 +1,10 @@
 ---
-title: Electromagnetic propulsion
-summary: Leveraging electromagnetic propulsion with the goal of creating a simple projectile launching system.
+title: TensorNetworks
+summary: Applying TensorNetowrks to the problem of MultiAgent Reinforcement Learning
 
 tags:
-- Physics
-date: "2016-04-27T00:00:00Z"
+- ML
+date: "2020-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +19,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "project/Electromagnetic-propulsion/report.pdf"
+url_pdf: "project/TensorNetowrks/report.pdf"
 url_slides: ""
 url_video: ""
 
@@ -30,6 +30,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-In this experiment, an electromagnetic propulsion system was built, with the aim to make it as reliable as possible at launching a projectile.The system consists of two solenoids and two sensors connected to an Arduino [1], the objective is to successfully accelerate the projectile through both of these solenoids without having the projectile get stuck in the middle of at the equilibrium point, therefore the purpose of the sensors is to control the flow of current, this system was tested and a success rate of 40%, 60% rate and finally 100% were achieved when all the sources of failures were formally addressed. Furthermore the experiment also looked at using a calibrated timing method, where instead of the sensors controlling the flow of current to the solenoids it was all hard coded into the python code, the optimum activation period for this design (length of each part considered) was found using trial and error, these periods were 150 milliseconds (period of the activation of the magnetic fields) from the solenoid nearest to the projectile, and 350millisecond from the other solenoid, allowing the projectile to travel from the stationary point, into the solenoid and then turns off before the projectile gets stuck in the equilibrium point (both periods start when the first signal is triggered), aside from determining the optimum times, the success rate of this method is 100%.
+In this document all that is present are notes taken as the research progressed, the notes are
+structures in order of progression and are unfiltered raw thoughts and steps. with no respect to
+grammar.
 
-This experiment was carried out with the goal of making a simple electromagnetic propulsion system that’s reliable, and this was successfully achieved.
+We Begin by attempting to create a baseline, this is a simply CNN actor critic policy from stablebaselines 3 trained using the PPO algorithm. Once trained we transfer the parameters from pytorch to jax and buid a model, we change the policy network from a multilayerpreceptron to a TensorNetwork. (Currently progressing thus only the notes are available!)
